@@ -1,6 +1,3 @@
-[createTemplate.md](https://github.com/user-attachments/files/19860602/createTemplate.md)
-[https-github.com-Ranginang67-Firecrack-master.zip](https://github.com/user-attachments/files/19860600/https-github.com-Ranginang67-Firecrack-master.zip)
-[README.md](https://github.com/user-attachments/files/19860599/README.md)
 - 👋 Hi, I’m @saedmohmedsaed
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
